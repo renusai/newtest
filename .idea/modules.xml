@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Agloscale.iml" filepath="$PROJECT_DIR$/.idea/Agloscale.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pizzastore/.idea/pizzastore.iml" filepath="$PROJECT_DIR$/../pizzastore/.idea/pizzastore.iml" />
+    </modules>
+  </component>
+</project>
